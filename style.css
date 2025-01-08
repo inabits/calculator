@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(255, 252, 245);
+    color: rgb(55, 67, 117);
+    font: normal 20px arial;
+    text-align: center;
+}
+
+section {
+    background-color: rgb(91, 103, 151);
+    border-radius: 10px;
+    padding: 15px;
+    width: 250px;
+    margin: auto;
+}
+
+#screen {
+    background-color: rgb(255, 252, 245);
+    font: bold 30px arial;
+    color: rgb(44, 44, 44);
+    width: 230px;
+    height: 50px;
+    border: 1px;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 1px 3px 1px 3px;
+}
+
+button {
+    background-color: rgb(255, 252, 245);
+    color: rgb(55, 67, 117);
+    font: bold 30px arial;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(175, 175, 175);
+}
+
+button:active {
+    background-color: rgb(175, 175, 175);
+}
+
+.btnC {
+    width: 172px;
+}
+
+.btn {
+    width: 50px;
+}
+
+.btn0 {
+    width: 110px;
+}
