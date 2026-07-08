@@ -25,9 +25,9 @@ Para clonar e executar este projeto localmente no seu computador, siga os passos
    ```bash
    git clone https://github.com/inabits/calculator.git
    ```
-
+   
 2. Entre na pasta do projeto:
-  ```bash
+   ```bash
    cd calculator
    ```
 
